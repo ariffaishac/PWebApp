@@ -1,0 +1,24 @@
+{
+    "name": "Filmaniac",
+    "short_name": "FM",
+    "description": "informasi tentang film",
+    "lang": "en-US",
+    "dir": "ltr",
+    "theme-color": "#1a1c20",
+    "start_url": ".",
+    "backgrround-color": "#000",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "img/fin.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "img/fin.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
